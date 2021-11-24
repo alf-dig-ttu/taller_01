@@ -1,5 +1,6 @@
 """
-Lumache - Python library for cooks and food lovers.
+Taller de alfabetización digital - Toda la teoría del universo
+Recursos digitales básicos para migrantes
 """
 
 __version__ = "0.1.0"
