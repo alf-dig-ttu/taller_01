@@ -1,6 +1,5 @@
 """
-Taller de alfabetización digital - Toda la teoría del universo
-Recursos digitales básicos para migrantes
+Recursos digitales básicos para migrantes - Taller de alfabetización digital - Toda la teoría del universo
 """
 
 __version__ = "0.1.0"

@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Recursos digitales basicos para migrantes - Taller de alfabetización digital TTU - 2021
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Charla-taller introductorio que busca orientar a migrantes en chile, en el uso de plataformas digitales para el desarrollo de sus vidas cotidianas. En primera instancia se abordaran conceptos basicos sobre computadores, internet y comercio electronico, para luego adentrarnos en la cadena de bloques, el dinero digital y la economia descentralizada. Se revisarán y realizarán ejercicios con plataformas y aplicaciones, que podrian ser de utilidad para migrantes.
 
-Read the tutorial here:
+Puedes encontrar este tutorial completo en 
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://taller-01.readthedocs.io

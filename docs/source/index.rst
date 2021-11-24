@@ -1,19 +1,18 @@
-Welcome to Lumache's documentation!
+Recursos digitales basicos para migrantes - Talleres de alfabetización digital TTU 2021
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Este es un documento de apoyo realizado para el taller realizado en noviembre y diciembre del 2021 en Concepción, Chile.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+`TTU <https://todalateoriadeluniverso.org/>`_
+
+
+
 
 .. note::
 
-   This project is under active development.
+   Este proyecto esta siendo desarrollado
 
-Contents
+Contenidos
 --------
 
 .. toctree::

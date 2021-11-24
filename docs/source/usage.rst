@@ -1,4 +1,4 @@
-Usage
+Computacion
 =====
 
 .. _installation:
