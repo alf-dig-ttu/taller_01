@@ -1,5 +1,5 @@
 """
-Recursos digitales básicos para migrantes - Taller de alfabetización digital - Toda la teoría del universo
+Recursos digitales básicos para migrantes 01
 """
 
 __version__ = "0.1.0"
